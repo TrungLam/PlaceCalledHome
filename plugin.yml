@@ -1,0 +1,9 @@
+name: PlaceCalledHome
+main: com.lamtrung.placecalledhome.PlaceCalledHome
+author: lam@lamtrung.com
+website: http://lamtrung.com
+version: 1.0.0
+
+commands:
+  remember:
+    description: remembers your location
